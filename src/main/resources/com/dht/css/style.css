@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 31 thg 3, 2024, 00:18:53
+    Author     : NGUYEN MY NGAN
+*/
+
+GridPane {
+    -fx-background-color: lightblue;
+    -fx-padding:10;
+}
+Label{
+    -fx-font-size:14;
+    -fx-text-fill:darkblue;
+}
+Text.Subject{
+    -fx-font-size:36;
+    -fx-font-weight: bold;
+    -fx-fill: red;
+    -fx-stroke-width: 2;
+    -fx-stroke:gold;
+}
+Button.btn{
+    -fx-background-color: darkblue;
+    -fx-text-fill:white;
+    -fx-min-width: 100;
+}
